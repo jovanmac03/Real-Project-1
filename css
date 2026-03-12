@@ -3,7 +3,7 @@ body {
   font-size: 16px;
   line-height: 1.6;
   color: #333;
-  background-color: White;
+  background-color: Black;
   margin: 0;
   padding: 0;
 }
@@ -12,8 +12,8 @@ body {
 header {
   text-align: center;
   padding: 20px;
-  background-color: #White;
-  color: Black;
+  background-color: Black;
+  color: White;
 }
 
 header img {
@@ -28,7 +28,7 @@ section {
   max-width: 800px;
   margin: 30px auto;
   padding: 20px;
-  background-color: #ffffff;
+  background-color: Black;
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
@@ -62,7 +62,7 @@ a:hover {
 footer {
   text-align: center;
   padding: 15px;
-  background-color: White;
+  background-color: Black;
   color: Blue;
   margin-top: 40px;
 }
