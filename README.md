@@ -1,6 +1,7 @@
 # Real-Project-1
 # Project-1 Jovan McSellers
 <html>
+  <link rel="stylesheet" href="css">
 <img src= https://images.pexels.com/photos/2247179/pexels-photo-2247179.jpeg?cs=srgb&dl=pexels-thelazyartist-2247179.jpg&fm=jpg" alt=lady working out>
   <header>
 <h1> Shoulders/Arms Workout Plan</h1>
