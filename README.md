@@ -1,1 +1,25 @@
 # Real-Project-1
+# Project-1 Jovan McSellers
+<html>
+<img src= https://images.pexels.com/photos/2247179/pexels-photo-2247179.jpeg?cs=srgb&dl=pexels-thelazyartist-2247179.jpg&fm=jpg" alt=lady working out>
+  <header>
+<h1> Shoulders/Arms Workout Plan</h1>
+<nav1> Shoulder Workouts</nav1>
+<p> This is a website designed to help you see different workout exercises for both your shoulders as well as your arms.</p>
+<h2> Shoulder Workouts</h2>
+<ul>Overhead Press</ul>
+<ul> Shoulder Shrugs</ul>
+<ul> Shoulder Press </ul>
+<nav> https://www.muscleandstrength.com/exercises/shoulders </nav>
+
+<h2>Arm Workouts</h2> 
+<ul> Triceps Press</ul>
+<ul>Bicep Curls</ul>
+<ul> Triceps Extension</ul>
+<nav>https://www.menshealth.com/fitness/a35082707/big-arms-exercises-workout/?utm_source=google&utm_medium=cpc&utm_campaign=mgu_ga_mnh_md_dsa_prog_mix_us_19754449616&gad_source=1&gad_campaignid=19754449616&gbraid=0AAAAACrVUPmlVRKROXC5_gr3lgSnlfljY&gclid=CjwKCAiAkbbMBhB2EiwANbxtbRsvH4Wzq33MIWc_cMk0eNIM8SKQK4hhQI9fHLTr6gLrVD-Ouc5OWBoCaIsQAvD_BwE</nav>
+</header> 
+
+<footer> Jovan McSellers </footer>
+  
+
+</html>
