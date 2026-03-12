@@ -25,13 +25,23 @@
   </p>
 </section>
 
-<h2>Arm Workouts</h2> 
-<ul> Triceps Press</ul>
-<ul>Bicep Curls</ul>
-<ul> Triceps Extension</ul>
-<nav>https://www.menshealth.com/fitness/a35082707/big-arms-exercises-workout/?utm_source=google&utm_medium=cpc&utm_campaign=mgu_ga_mnh_md_dsa_prog_mix_us_19754449616&gad_source=1&gad_campaignid=19754449616&gbraid=0AAAAACrVUPmlVRKROXC5_gr3lgSnlfljY&gclid=CjwKCAiAkbbMBhB2EiwANbxtbRsvH4Wzq33MIWc_cMk0eNIM8SKQK4hhQI9fHLTr6gLrVD-Ouc5OWBoCaIsQAvD_BwE</nav>
-</header> 
+<header>
+  <h2>Arm Workouts</h2> 
 
+  <!-- List of exercises -->
+  <ul>
+    <li>Triceps Press</li>
+    <li>Bicep Curls</li>
+    <li>Triceps Extension</li>
+  </ul>
+
+  <!-- Source link using a semantic anchor -->
+  <p>Source: 
+    <a href="https://www.menshealth.com/fitness/a35082707/big-arms-exercises-workout/?utm_source=google&utm_medium=cpc&utm_campaign=mgu_ga_mnh_md_dsa_prog_mix_us_19754449616&gad_source=1&gad_campaignid=19754449616&gbraid=0AAAAACrVUPmlVRKROXC5_gr3lgSnlfljY&gclid=CjwKCAiAkbbMBhB2EiwANbxtbRsvH4Wzq33MIWc_cMk0eNIM8SKQK4hhQI9fHLTr6gLrVD-Ouc5OWBoCaIsQAvD_BwE" target="_blank" rel="noopener noreferrer">
+      Men's Health
+    </a>
+  </p>
+</header>
 <footer> Jovan McSellers </footer>
   
 
