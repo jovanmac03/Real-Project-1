@@ -5,12 +5,25 @@
   <header>
 <h1> Shoulders/Arms Workout Plan</h1>
 <nav1> Shoulder Workouts</nav1>
-<p> This is a website designed to help you see different workout exercises for both your shoulders as well as your arms.</p>
-<h2> Shoulder Workouts</h2>
-<ul>Overhead Press</ul>
-<ul> Shoulder Shrugs</ul>
-<ul> Shoulder Press </ul>
-<nav> https://www.muscleandstrength.com/exercises/shoulders </nav>
+<section>
+  <p>This website is designed to help you explore different workout exercises for both your shoulders and your arms.</p>
+
+  <h2>Shoulder Workouts</h2>
+  
+  <!-- List of shoulder exercises -->
+  <ul>
+    <li>Overhead Press</li>
+    <li>Shoulder Shrugs</li>
+    <li>Shoulder Press</li>
+  </ul>
+
+  <!-- Source link -->
+  <p>Source: 
+    <a href="https://www.muscleandstrength.com/exercises/shoulders" target="_blank" rel="noopener noreferrer">
+      Muscle & Strength
+    </a>
+  </p>
+</section>
 
 <h2>Arm Workouts</h2> 
 <ul> Triceps Press</ul>
